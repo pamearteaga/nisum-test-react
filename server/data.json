@@ -39,6 +39,16 @@
         "name": "F. Scott",
         "lastname": "Fitzgerald"
       }
+    },
+    {
+      "title": "Cien Años de Soledad",
+      "publicationDate": "1967",
+      "coverImage": "",
+      "author": {
+        "name": "Gabriel",
+        "lastname": "Garcia Marquez"
+      },
+      "id": "HwQaER6"
     }
   ],
   "authors": [

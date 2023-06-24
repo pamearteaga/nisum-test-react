@@ -1,0 +1,23 @@
+{
+  "name": "nisum-test-react",
+  "version": "1.0.0",
+  "description": "React Admin / JSON Server test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "server": "json-server --watch server/data.json --port 3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pamearteaga/nisum-test-react.git"
+  },
+  "author": "Pamela Arteaga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pamearteaga/nisum-test-react/issues"
+  },
+  "homepage": "https://github.com/pamearteaga/nisum-test-react#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}

@@ -3,7 +3,7 @@
     {
       "id": "1",
       "title": "Cien Años de Soledad",
-      "launchYear": "1967",
+      "launchDate": "1967-01-01",
       "coverImage": "https://images.cdn2.buscalibre.com/fit-in/360x360/52/6b/526bb938f7613f31e3e42272df5463e1.jpg",
       "author": {
         "name": "Gabriel",
@@ -13,7 +13,7 @@
     {
       "id": "2",
       "title": "1984",
-      "launchYear": "1949",
+      "launchDate": "1949-01-01",
       "coverImage": "https://images.booksense.com/images/935/262/9780452262935.jpg",
       "author": {
         "name": "George",
@@ -23,7 +23,7 @@
     {
       "id": "3",
       "title": "Don Quijote",
-      "launchYear": "1605",
+      "launchDate": "1605-01-01",
       "coverImage": "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_568,c_scale/jackets/9781847493774.jpg",
       "author": {
         "name": "Miguel",
@@ -33,22 +33,22 @@
     {
       "id": "4",
       "title": "The Great Gatsby",
-      "launchYear": "1925",
+      "launchDate": "1925-01-01",
       "coverImage": "https://i0.wp.com/americanwritersmuseum.org/wp-content/uploads/2018/02/CK-3.jpg?resize=267%2C400&ssl=1",
       "author": {
-        "name": "F. Scott",
+        "name": "F. Scot",
         "lastname": "Fitzgerald"
       }
     },
     {
-      "title": "Cien Años de Soledad",
-      "publicationDate": "1967",
-      "coverImage": "",
+      "title": "Titulo libro",
+      "launchDate": "2023-06-15",
+      "coverImage": null,
       "author": {
-        "name": "Gabriel",
-        "lastname": "Garcia Marquez"
+        "name": "Pamela",
+        "lastname": "Arteaga"
       },
-      "id": "HwQaER6"
+      "id": "eJnLi12"
     }
   ],
   "authors": [

@@ -1,4 +1,5 @@
 # Book management app
+![Book managemet app](https://github.com/pamearteaga/nisum-test-react/blob/main/server/app.png)
 
 ## Running the project locally
 #### Cloning

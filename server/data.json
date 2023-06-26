@@ -2,7 +2,7 @@
   "books": [
     {
       "id": "1",
-      "title": "Cien Años de Soledad",
+      "title": "One Hundred Years of Solitude",
       "launchDate": "1967-01-01",
       "coverImage": "https://images.cdn2.buscalibre.com/fit-in/360x360/52/6b/526bb938f7613f31e3e42272df5463e1.jpg",
       "author": {
@@ -22,7 +22,7 @@
     },
     {
       "id": "3",
-      "title": "Don Quijote",
+      "title": "Don Quixote",
       "launchDate": "1605-01-01",
       "coverImage": "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_568,c_scale/jackets/9781847493774.jpg",
       "author": {
@@ -41,14 +41,74 @@
       }
     },
     {
-      "title": "Titulo libro",
-      "launchDate": "2023-06-15",
-      "coverImage": null,
+      "id": "abc123",
+      "title": "To Kill a Mockingbird",
+      "launchDate": "1960-07-11",
+      "coverImage": "https://cdn.britannica.com/21/182021-050-666DB6B1/book-cover-To-Kill-a-Mockingbird-many-1961.jpg",
       "author": {
-        "name": "Pamela",
-        "lastname": "Arteaga"
-      },
-      "id": "eJnLi12"
+        "name": "Harper",
+        "lastname": "Lee"
+      }
+    },
+    {
+      "id": "ghi789",
+      "title": "Pride and Prejudice",
+      "launchDate": "1813-01-28",
+      "coverImage": "https://cdn.myportfolio.com/da2d4941-6fcd-4c00-a8ae-c467fb1c60d8/9b5b007c-c43c-489a-b33d-601ab6371cd7_rw_1200.jpg?h=bed2be29ccac0264c739c9c0eba47b5c",
+      "author": {
+        "name": "Jane",
+        "lastname": "Austen"
+      }
+    },
+    {
+      "id": "mno345",
+      "title": "The Catcher in the Rye",
+      "launchDate": "1951-07-16",
+      "coverImage": "https://cdn.britannica.com/94/181394-050-2F76F7EE/Reproduction-cover-edition-The-Catcher-in-the.jpg",
+      "author": {
+        "name": "J.D.",
+        "lastname": "Salinger"
+      }
+    },
+    {
+      "id": "stu901",
+      "title": "Moby-Dick",
+      "launchDate": "1851-10-18",
+      "coverImage": "https://mpd-biblio-covers.imgix.net/9781466804128.jpg",
+      "author": {
+        "name": "Herman",
+        "lastname": "Melville"
+      }
+    },
+    {
+      "id": "yza567",
+      "title": "The Lord of the Rings",
+      "launchDate": "1954-07-29",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566425108l/33.jpg",
+      "author": {
+        "name": "J.R.R.",
+        "lastname": "Tolkien"
+      }
+    },
+    {
+      "id": "efg123",
+      "title": "Crime and Punishment",
+      "launchDate": "1866-02-02",
+      "coverImage": "https://cdn.kobo.com/book-images/03c166d9-671b-4946-853c-0142850238fe/166/300/False/crime-and-punishment-a-new-translation.jpg",
+      "author": {
+        "name": "Fyodor",
+        "lastname": "Dostoevsky"
+      }
+    },
+    {
+      "id": "klm789",
+      "title": "The Chronicles of Narnia",
+      "launchDate": "1950-10-16",
+      "coverImage": "https://pictures.abebooks.com/isbn/9780060765507-us-300.jpg",
+      "author": {
+        "name": "C.S.",
+        "lastname": "Lewis"
+      }
     }
   ],
   "authors": [
@@ -57,32 +117,77 @@
       "name": "Gabriel",
       "lastname": "Garcia Marquez",
       "birthDate": "06-03-1927",
-      "nationality": "Colombiano",
-      "photo": ""
+      "nationality": "Colombian"
     },
     {
       "id": "6",
       "name": "George",
       "lastname": "Orwell",
       "birthDate": "25-06-1903",
-      "nationality": "Británico",
-      "photo": ""
+      "nationality": "British"
     },
     {
       "id": "7",
       "name": "Miguel",
       "lastname": "de Cervantes",
       "birthDate": "29-09-1547",
-      "nationality": "Español",
-      "photo": ""
+      "nationality": "Spanish"
     },
     {
       "id": "8",
       "name": "F. Scott",
       "lastname": "Fitzgerald",
       "birthDate": "24-09-1896",
-      "nationality": "Americano",
-      "photo": ""
+      "nationality": "American"
+    },
+    {
+      "id": "def456",
+      "name": "Harper",
+      "lastname": "Lee",
+      "birthDate": "1926-04-28",
+      "nationality": "American"
+    },
+    {
+      "id": "jkl012",
+      "name": "Jane",
+      "lastname": "Austen",
+      "birthDate": "1775-12-16",
+      "nationality": "British"
+    },
+    {
+      "id": "pqr678",
+      "name": "J.D.",
+      "lastname": "Salinger",
+      "birthDate": "1919-01-01",
+      "nationality": "American"
+    },
+    {
+      "id": "vwx234",
+      "name": "Herman",
+      "lastname": "Melville",
+      "birthDate": "1819-08-01",
+      "nationality": "American"
+    },
+    {
+      "id": "bcd890",
+      "name": "J.R.R.",
+      "lastname": "Tolkien",
+      "birthDate": "1892-01-03",
+      "nationality": "British"
+    },
+    {
+      "id": "hij456",
+      "name": "Fyodor",
+      "lastname": "Dostoevsky",
+      "birthDate": "1821-11-11",
+      "nationality": "Russian"
+    },
+    {
+      "id": "nop012",
+      "name": "C.S.",
+      "lastname": "Lewis",
+      "birthDate": "1898-11-29",
+      "nationality": "British"
     }
   ]
 }
